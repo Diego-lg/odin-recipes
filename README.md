@@ -1,1 +1,1 @@
-first odin's website using only html images and liks.
+first odin's website using only html images and liks. 
